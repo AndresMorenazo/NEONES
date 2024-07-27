@@ -1,0 +1,58 @@
+header{
+    background-image: url(image.png);
+    background-repeat: no-repeat;
+    background-size: 100% 17vh;
+    background-attachment: fixed;
+    padding: 100px;
+    text-align: center;
+    border-top: 2px solid black;
+    border-radius: 30px 30px 0 0;
+    font-family: Georgia, serif;
+    color: #49adff;
+    background-color: black;
+    background-
+    
+    }
+h1{
+    text-align: center;
+    margin:-100px;
+    color: #000000;
+    font-size: 3.5em;
+    text-shadow: 0 0 5px rgb(196, 83, 231),0 0 5px rgb(249, 75, 182),0 0 5px rgb(229, 69, 237),0 0 5px red;
+    }
+h1{
+    text-align: center;
+    margin:-100px;
+    color: #000000;
+    font-size: 3.5em;
+    text-shadow: 0 0 5px rgb(196, 83, 231),0 0 5px rgb(249, 75, 182),0 0 5px rgb(229, 69, 237),0 0 5px red;
+    }
+h7{
+    margin: -59px;
+    text-align: center;
+    color: #000000;
+    font-size: 2.5em;
+    text-shadow: 0 0 5px rgb(42, 115, 251),0 0 5px rgb(75, 138, 255),0 0 5px rgb(0, 156, 199);
+    }
+body {
+    background-image: image(a.png);
+
+
+}
+article {
+    color: #0000003f;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration-line: overline;
+    text-overflow:initial;
+    margin: -157px 40%;
+    
+    text-shadow: 0 0 5px rgb(255, 0, 153),0 0 5px rgb(219, 59, 243),0 0 5px rgb(211, 66, 233),0 0 5px rgb(0, 156, 199);
+}
+article header p {
+    font-size: 1.5em;
+    text-shadow: 0 0 580px rgb(17, 100, 255),0 0 5px rgb(42, 115, 251),0 0 5px rgb(75, 138, 255),0 0 5px rgb(0, 156, 199);
+    text-align: center;
+    margin: -20px;
+    margin-left:  -20px;
+}
